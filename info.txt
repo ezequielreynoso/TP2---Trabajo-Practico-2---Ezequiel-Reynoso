@@ -1,0 +1,17 @@
+{
+	"contenidoStr": "{\n  \"type\": \"module\",\n  \"name\": \"tp2---trabajo-practico-2---ezequiel-reynoso\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"ms.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"ER\",\n  \"license\": \"MIT\"\n}\n",
+	"contenidoObj": {
+		"type": "module",
+		"name": "tp2---trabajo-practico-2---ezequiel-reynoso",
+		"version": "1.0.0",
+		"description": "",
+		"main": "ms.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"keywords": [],
+		"author": "ER",
+		"license": "MIT"
+	},
+	"size": 276
+}
